@@ -178,7 +178,7 @@ class _AddPostScreenState extends State<AddPostScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('add post')),
+      appBar: AppBar(title: Text('Add Post')),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
