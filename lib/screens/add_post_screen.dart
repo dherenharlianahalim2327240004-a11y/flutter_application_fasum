@@ -30,7 +30,7 @@ class _AddPostScreenState extends State<AddPostScreen> {
   String? _aiCategory;
   String? _aiDescription;
   bool _isGenerating = false;
-  final String _apiKey = 'AIzaSyBcXqGg9Os67okNoIsk8WFwHKg2PYzFGEA';
+  final String _apiKey = ''; //API KEY GOOGLE ADA DI AISTUDIO!
 
   List<String> categories = [
     'Jalan Rusak',
